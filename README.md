@@ -105,11 +105,11 @@ MIT License
 
 BOT is free-to-use, but you are welcome to appreciate my work ☺️
 
-ETH - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff
+ETH - 0x68fAfD42AcF31229379b2bcA0C5BAE0997a5fD04
 
-BNB - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff  
+BNB - 0x68fAfD42AcF31229379b2bcA0C5BAE0997a5fD04  
   
-Thank's to Empaticgame! spend: 0,8 BNB ❤️
+Thank's to Empaticgame! spend: 0,7 BNB ❤️
 
 ## 📧 If you need some help contact me
 
@@ -119,4 +119,4 @@ Thank's to Empaticgame! spend: 0,8 BNB ❤️
 
 ![Hater's](https://cdn.arstechnica.net/wp-content/uploads/2019/03/reddit-games-silence.png)
   
-**We know about a few Reddit haters. We cannot rule out whether these are bots or unsuspecting would-be coders. The AssaEmpire Team will contact Github with the problems so that this no longer occurs. Thank you for reading and have fun :)**
+**We know about a few Reddit haters. We cannot rule out whether these are bots or unsuspecting would-be coders. The AssaEmpire Team will contact Gitlab with the problems so that this no longer occurs. Thank you for reading and have fun :)**
